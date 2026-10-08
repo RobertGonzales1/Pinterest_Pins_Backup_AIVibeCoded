@@ -1,0 +1,15 @@
+# Private: your Pinterest login session. NEVER commit this.
+pinterest_cookies.txt
+*cookies*.txt
+
+# Downloaded content and run output
+pinterest_downloads/
+pinterest_download_log.txt
+pinterest_archive.sqlite3
+*.sqlite3
+*.log
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
